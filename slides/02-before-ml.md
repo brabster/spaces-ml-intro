@@ -18,9 +18,6 @@ y = f(x)
 </div>
 
 Note:
- - How can we use information that we've got to create information we haven't?
- - Pytharogas theorem - if we know the length of the shorter two sides of a right triangle, we can compute the other side
- - Galileo credited with speed/distance/time calculation
- - Einstein's famous relativity equation
- - Generalises the problem to y = f(x) - we know x, we define a function f that turns x into y
- - To define y, perform experiments, come up with theories, build on other equations
+ - Info we've got to infer info we haven't
+ - Humans theorize, experiment, measure, analyse
+ - Only scales so far
