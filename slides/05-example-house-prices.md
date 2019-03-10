@@ -1,7 +1,7 @@
 ## How Do Machines Learn?
 
 
-SalePrice = <span style="font-weight: bold; font-size: 2em; vertical-align: middle; color: black">f</span>(MSSubClass, MSZoning, LotFrontage, ...)
+SalePrice = <span style="font-weight: bold; font-size: 2em; vertical-align: middle">f</span>(MSSubClass, MSZoning, LotFrontage, ...)
 
 
 <img class="fragment" src="images/house_prices_sample.png"/>

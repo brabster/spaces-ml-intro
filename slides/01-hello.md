@@ -4,14 +4,7 @@ The Easy, The Hard and The Cheating
 
 <hr />
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-Paul Brabban, [tempered.works](https://tempered.works)
+<footer>@brabster | https://tempered.works</footer>
 
 Note:
  - why is ml a thing?

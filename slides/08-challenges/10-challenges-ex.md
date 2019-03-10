@@ -5,5 +5,5 @@
 <img src="images/taytweets.png" style="width: 650px"/>
 
 Note:
- - 
+ - 2016 story
  

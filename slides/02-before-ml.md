@@ -9,7 +9,7 @@ distance = speed * time
 </div>
 
 <div class="fragment" style="font-size: 1.5em">
-<img src="images/black-scholes.png" width="500px"/>
+e = mc<sup>2</sup>
 </div>
 
 <div class="fragment" style="font-size: 2em">
