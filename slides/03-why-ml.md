@@ -5,11 +5,11 @@ Recommendation = f(Motorhead, Metallica)
 </div>
 
 <div class="fragment"  style="font-size: 1em">
-Italian = f(English)
+Spam = f(Words-In-Email)
 </div>
 
 <div class="fragment"  style="font-size: 1em">
-SalePrice = f(Bedrooms, GardenArea)
+Italian = f(English)
 </div>
 
 <div class="fragment" style="font-size: 2em">
@@ -18,8 +18,11 @@ Data + Computers = f
 </div>
 
 Note:
- - Complicated rules
- - Different models for different places
- - Often constantly changing, need to continually update `f`
- - But lots of examples/data available
- - So apply computers
+- IBM researcher "Every time I fire a linguist, the performance of the speech recognizer goes up"
+- The Unreasonable Effectiveness of Data - 2010 paper
+- =============================
+- Complicated rules
+- Different models for different places
+- Often constantly changing, need to continually update `f`
+- But lots of examples/data available
+- So apply computers

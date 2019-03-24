@@ -9,5 +9,6 @@ Note:
 - AWS SageMaker
 - Google AutoML
 - Azure Machine Learning Studio
+- On-Prem - Machine Box
 
  

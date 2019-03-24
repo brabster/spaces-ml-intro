@@ -9,7 +9,7 @@ distance = speed * time
 </div>
 
 <div class="fragment" style="font-size: 1.5em">
-e = mc<sup>2</sup>
+E = mc<sup>2</sup>
 </div>
 
 <div class="fragment" style="font-size: 2em">
@@ -18,6 +18,9 @@ y = f(x)
 </div>
 
 Note:
- - Info we've got to infer info we haven't
- - Humans theorize, experiment, measure, analyse
- - Only scales so far
+- Pythagoras 500BC
+- SDT 17th Century, Galileo?
+- E=mc2 1905
+- Info we've got to infer info we haven't
+- Humans theorize, experiment, measure, analyse
+- Only scales so far
