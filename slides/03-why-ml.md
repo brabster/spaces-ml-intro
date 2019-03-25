@@ -1,14 +1,14 @@
 ## What is `f` for...
 
-<div class="fragment"  style="font-size: 1em">
-Recommendation = f(Motorhead, Metallica)
+<div class="fragment"  style="font-size: 1.5em">
+Artist = f(Motorhead, Metallica)
 </div>
 
-<div class="fragment"  style="font-size: 1em">
-Spam = f(Words-In-Email)
+<div class="fragment"  style="font-size: 1.5em">
+Spam = f(Email)
 </div>
 
-<div class="fragment"  style="font-size: 1em">
+<div class="fragment"  style="font-size: 1.5em">
 Italian = f(English)
 </div>
 

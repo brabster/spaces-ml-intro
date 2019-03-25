@@ -1,6 +1,6 @@
 $transition: facein$
 
-## Evaluating a Model
+## Linear Regression?
 
 <img src="images/house_prices_linear_chart.png" width="800px"/>
 

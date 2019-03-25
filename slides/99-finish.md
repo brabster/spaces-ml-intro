@@ -1,6 +1,13 @@
-## Intro to Machine Learning
+## More Reading
 
-<img src="images/meetup.png" width="300px" style="vertical-align: middle; margin: 5px"/> [meetup.com/sheffieldml](https://meetup.com/sheffieldml)
+<div style="text-align: left">
+The Unreasonable Effectiveness of Data (paper)<br/>
+Linear Regression, k-Nearest Neighbour, Decision Trees<br/>
+Practical AI, Data Skeptic (podcasts)
+[kaggle.com](https://kaggle.com) (datasets and kernels)<br/>
+Azure, GCP, AWS Cognitive Services & Support<br/>
+Machine Box<br/>
+</div>
 
 <footer>@brabster | https://tempered.works</footer>
 

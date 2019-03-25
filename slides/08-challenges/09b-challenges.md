@@ -7,5 +7,5 @@
 <img src="images/bias.jpg" class="fragment" style="height: 200px"/>
 
 Note:
- - 
+ - deploying - performance, measuring, iterating, explaining
  

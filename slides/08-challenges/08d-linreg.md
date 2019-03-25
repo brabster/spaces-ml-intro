@@ -1,6 +1,8 @@
-## Lot Size vs. Sale Price
+$transition: facein$
 
-<img src="images/house_prices_linear_chart_noline.png" width="800px"/>
+## k-Nearest Neighbours?
+
+<img src="images/top_plot.png" width="700px"/>
 
 Note:
  Note:
