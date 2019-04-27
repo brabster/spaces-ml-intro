@@ -2,8 +2,9 @@
 
 ### Ask Microsoft...
 
-<img src="images/taytweets.png" style="width: 650px"/>
+<img class="fragment" src="images/taytweets.png" style="width: 650px"/>
 
 Note:
- - 2016 story
+ - March 23rd, 2016
+ - 16 hours to takedown
  

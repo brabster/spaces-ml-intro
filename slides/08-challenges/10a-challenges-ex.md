@@ -2,7 +2,7 @@
 
 ### Ask Niantic...
 
-<img src="images/pokemon.png" style="width: 650px"/>
+<img class="fragment" src="images/pokemon.png" style="width: 650px"/>
 
 Note:
  - 2016 story

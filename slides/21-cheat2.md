@@ -1,6 +1,6 @@
 ## Care Needed
 
-![](images/not-gorillas.png)
+<img class="fragment" src="images/not-gorillas.png"/>
 
 Note:
  - canned models aren't perfect

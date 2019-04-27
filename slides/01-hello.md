@@ -1,4 +1,4 @@
-## Intro to Machine Learning
+## This Machine Learning Business
 
 The Easy, The Hard and The Cheating
 

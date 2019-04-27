@@ -18,6 +18,8 @@ Data + Computers = f
 </div>
 
 Note:
+- Pythagoras Prize
+- ================
 - IBM researcher "Every time I fire a linguist, the performance of the speech recognizer goes up"
 - The Unreasonable Effectiveness of Data - 2010 paper
 - =============================

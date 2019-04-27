@@ -21,6 +21,7 @@ Note:
 - Pythagoras 500BC
 - SDT 17th Century, Galileo?
 - Virality, number of invites * conversion rate. > 1 and you're growing exponentially
+- ========================================
 - (relatively) simple relationships
 - there's a right answer
 - easy to gather data

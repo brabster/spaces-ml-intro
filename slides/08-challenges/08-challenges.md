@@ -5,7 +5,9 @@
 <img src="images/training.jpg" class="fragment" style="height: 200px"/>
 
 Note:
- - getting - privacy and labelling
- - cleaning - missing, errors
- - training - numbers/strings, which features, correlation
+- GETTING - privacy and labelling
+- 
+- CLEANING - missing, errors
+- 
+- TRAINING - numbers/strings, which features, correlation
  
