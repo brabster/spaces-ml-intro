@@ -3,3 +3,27 @@
 #chapter-foo p {
 	text-transform: uppercase;
 }
+
+.reveal blockquote > footer {
+	text-align: end;
+}
+
+.reveal blockquote > footer > cite {
+	font-size: 0.5em;
+}
+
+.reveal figcaption {
+	font-size: 0.5em;
+}
+
+.reveal cite:before {
+	content: "\2014 "
+}
+
+.reveal .slide > footer {
+	width: 100%;
+	position: fixed;
+	bottom: 0;
+	text-align: end;
+	font-size: 0.75em;
+}

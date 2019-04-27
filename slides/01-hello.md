@@ -1,17 +1,12 @@
-## Intro to Machine Learning
+## This Machine Learning Business
 
 The Easy, The Hard and The Cheating
 
 <hr />
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+<img src="images/meetup.png" width="300px" style="vertical-align: middle; margin: 5px"/> [meetup.com/sheffieldml](https://meetup.com/sheffieldml)
 
-Paul Brabban, [tempered.works](https://tempered.works)
+<footer>@brabster | https://tempered.works</footer>
 
 Note:
  - why is ml a thing?

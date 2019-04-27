@@ -1,9 +1,16 @@
-## Easy, Hard, Cheat
+## More Reading
 
-<img src="images/meetup.png" width="300px" style="vertical-align: middle; margin: 5px"/> [meetup.com/sheffieldml](https://meetup.com/sheffieldml)
+<div style="text-align: left">
+The Unreasonable Effectiveness of Data (paper)<br/>
+Linear Regression, k-Nearest Neighbour, Decision Trees<br/>
+Practical AI & Data Skeptic (podcasts)<br/>
+[kaggle.com](https://kaggle.com) (datasets & kernels, Python & R)<br/>
+Azure (Algo cheat sheet), GCP, AWS Cognitive Services<br/>
+Machine Box (pre-trained models in docker containers)<br/>
+IBM Fairness 360 (open source bias & fairness toolkit)<br/>
+</div>
 
-Paul Brabban, [tempered.works](https://tempered.works)
-
+<footer>@brabster | https://tempered.works</footer>
 
 Note:
  - 

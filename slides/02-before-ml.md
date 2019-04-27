@@ -9,7 +9,7 @@ distance = speed * time
 </div>
 
 <div class="fragment" style="font-size: 1.5em">
-<img src="images/black-scholes.png" width="500px"/>
+k = i * c
 </div>
 
 <div class="fragment" style="font-size: 2em">
@@ -18,6 +18,12 @@ y = f(x)
 </div>
 
 Note:
- - Info we've got to infer info we haven't
- - Humans theorize, experiment, measure, analyse
- - Only scales so far
+- Pythagoras 500BC
+- SDT 17th Century, Galileo?
+- Virality, number of invites * conversion rate. > 1 and you're growing exponentially
+- ========================================
+- (relatively) simple relationships
+- there's a right answer
+- easy to gather data
+- apply thinking, prior work
+- stands for a long time
